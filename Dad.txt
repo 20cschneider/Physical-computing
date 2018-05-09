@@ -1,0 +1,3 @@
+A Digital signal acts like a switch.  It's either ON or OFF.  It has a voltage or it does not.
+
+An Analog signal has an infinate number of states.  It's voltage can be any value between its maximum and its minimum. 
